@@ -1,0 +1,24 @@
+{
+  "name": "halloween-node-js",
+  "version": "1.0.0",
+  "description": "A small Halloween project created in Javascript using the NodeJS framework. More information about this project is in its description in the repository. Happy Halloween!🎃 https://github.com/cisamu123/HalloweenJS",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cisamu123/HalloweenJS.git"
+  },
+  "author": "Cisamu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cisamu123/HalloweenJS/issues"
+  },
+  "homepage": "https://github.com/cisamu123/HalloweenJS#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "os": "^0.1.2",
+    "username": "^6.0.0"
+  }
+}
